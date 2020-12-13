@@ -13,5 +13,7 @@
 :milky_way: Фокин Леонид (Работа с интерфейсом и документация)
 
 
-# Language:
+## Language:
 <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+## Описание:
