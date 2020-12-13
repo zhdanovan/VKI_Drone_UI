@@ -1,0 +1,13 @@
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\bin\Debug\VKI_Drone_UI.exe.config
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\bin\Debug\VKI_Drone_UI.exe
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\bin\Debug\VKI_Drone_UI.pdb
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\obj\Debug\VKI_Drone_UI.csprojAssemblyReference.cache
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\obj\Debug\VKI_Drone_UI.Adding_Info.resources
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\obj\Debug\VKI_Drone_UI.Devices.resources
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\obj\Debug\VKI_Drone_UI.Drone_status.resources
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\obj\Debug\VKI_Drone_UI.Form1.resources
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\obj\Debug\VKI_Drone_UI.Properties.Resources.resources
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\obj\Debug\VKI_Drone_UI.csproj.GenerateResource.cache
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\obj\Debug\VKI_Drone_UI.csproj.CoreCompileInputs.cache
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\obj\Debug\VKI_Drone_UI.exe
+D:\2. Desktop\Тимофеев\merge files\VKI_Drone_UI\VKI_Drone_UI\VKI_Drone_UI\obj\Debug\VKI_Drone_UI.pdb
